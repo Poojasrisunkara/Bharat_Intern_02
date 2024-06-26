@@ -1,5 +1,5 @@
 # WeatherWatch
-Welcome to WeatherWatch! This project was created as part of my internship at Prodigy Infotech. The weather website provides real-time weather information and dynamically changes its background based on the current weather conditions.
+Welcome to WeatherWatch! This project was created as part of my internship at Bharat Intern. The weather website provides real-time weather information and dynamically changes its background based on the current weather conditions.
 
 ## Table of Contents
 
@@ -16,7 +16,7 @@ Welcome to WeatherWatch! This project was created as part of my internship at Pr
 WeatherNow is designed to provide users with real-time weather updates for any location. The website dynamically adjusts its background to match the current weather conditions, providing an engaging and visually appealing user experience.
 
 
-https://github.com/Poojasrisunkara/PRODIGY_WD_05/assets/165466759/bce8cfdd-fe4e-4ab3-b3ba-7b43f4602998
+https://github.com/Poojasrisunkara/Bharat_Intern_02/assets/165466759/361b6d0a-03f7-49db-b2c8-4a62cd2ed775
 
 
 ## Features
@@ -64,8 +64,6 @@ You need Node.js and npm installed on your machine to run the project locally.
     ```bash
     npm start
     ```
-
-    Open your browser and navigate to `http://localhost:3000` to see the website in action.
 
 ## Usage
 
